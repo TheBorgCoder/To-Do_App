@@ -1,0 +1,6 @@
+Walk
+Swim
+Jump
+Fly
+Workout
+Clean
